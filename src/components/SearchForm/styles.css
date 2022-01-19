@@ -1,0 +1,19 @@
+select {
+    width: 60px;
+    height: 60px;
+    background: #333;
+    border-radius: 50%;
+    border: none;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+form {
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
